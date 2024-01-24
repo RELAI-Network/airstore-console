@@ -2,10 +2,34 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-64.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "adaptive_number",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/adaptive_number-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/analyzer-6.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "archive",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/archive-3.4.10",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "async",
@@ -14,10 +38,40 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "base_x",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/base_x-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bip39",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/bip39-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bip39_mnemonic",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/bip39_mnemonic-3.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/built_collection-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/built_value-8.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "characters",
@@ -30,6 +84,12 @@
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/code_builder-4.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "collection",
@@ -50,10 +110,40 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "cryptography",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/cryptography-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/dart_style-2.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "ed25519_edwards",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/ed25519_edwards-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "edwards25519",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/edwards25519-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -62,10 +152,34 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "ffi",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/file-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/morgueye/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.2"
+    },
+    {
+      "name": "flutter_curve25519",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/flutter_curve25519-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_lints",
@@ -80,16 +194,64 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "js",
-      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/js-0.7.0",
+      "name": "glob",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/glob-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "hashlib_codecs",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/hashlib_codecs-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "hex",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/hex-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/http-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json_schema2",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/json_schema2-2.0.4+9",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "lints",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/logging-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "lottie",
@@ -110,8 +272,20 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "merlin",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/merlin-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "meta",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/meta-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/package_config-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -128,6 +302,60 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "polkadart",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/polkadart-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "polkadart_cli",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/polkadart_cli-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "polkadart_keyring",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/polkadart_keyring-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "polkadart_scale_codec",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/polkadart_scale_codec-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/pub_semver-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/quiver-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "recase",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/recase-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rest_client",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/rest_client-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "ristretto255",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/ristretto255-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/morgueye/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -138,6 +366,24 @@
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/source_span-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sr25519",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/sr25519-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "ss58",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/ss58-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "stack_trace",
@@ -158,6 +404,24 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "strobe",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/strobe-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "substrate_bip39",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/substrate_bip39-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "substrate_metadata",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/substrate_metadata-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "term_glyph",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -176,10 +440,40 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "unorm_dart",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/unorm_dart-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "uri",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/uri-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "utility",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/utility-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/uuid-4.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/watcher-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "web",
@@ -188,13 +482,31 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/web_socket_channel-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "yaon",
+      "rootUri": "file:///Users/morgueye/.pub-cache/hosted/pub.dev/yaon-1.1.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "futurstore_console",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-01-21T19:27:39.520992Z",
+  "generated": "2024-01-24T12:43:06.175701Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }
